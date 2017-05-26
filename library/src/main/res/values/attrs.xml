@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScalableImageView">
+        <!-- Scale factor for image enlarging -->
+        <attr name="scale" format="float" />
+        <!-- Coordinates for pivot point used for scaling -->
+        <attr name="scalePivotX" format="fraction" />
+        <attr name="scalePivotY" format="fraction" />
+    </declare-styleable>
+</resources>
