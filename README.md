@@ -7,9 +7,13 @@ image and drag it around a pivot point defined as a fraction or a percentage.
 
 Include the following line among the dependencies in order to use the view:
 
-    compile 'org.bitbucket.NikCody:ScalableImageView:0.3'
+    compile 'org.bitbucket.NikCody:ScalableImageView:v0.3.1'
 
 # Releases
+
+* Version 0.3.1
+   
+   ** Bugfix for version 0.3 **
 
 * Version 0.3
   
